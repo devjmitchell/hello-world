@@ -15,3 +15,4 @@ git branch
 git checkout -b <>
 git checkout <>
 git push
+git push --set-upstream origin <>
