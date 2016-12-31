@@ -14,3 +14,4 @@ git log
 git branch
 git checkout -b <>
 git checkout <>
+git push
