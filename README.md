@@ -11,3 +11,8 @@ git status
 git commit -m ""
 git commit -a -m ""
 git log
+git branch
+git checkout -b <>
+git checkout <>
+git push
+git push --set-upstream origin <>
