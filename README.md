@@ -1,7 +1,7 @@
 # hello-world
 Running through the GitHub "Hello World" tutorial
-
-I've had a GitHub account for about 2 1/2 years (mid-2014), but I'd like to finally learn more!
+-------------------------------------
+I've had a GitHub account for about 2 1/2 years (since mid-2014), but I'd like to finally learn more!
 
 I may use this hello-world repo to play around a bit.
 
