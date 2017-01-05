@@ -20,5 +20,3 @@ git push
 git push --set-upstream origin <>  
 git pull  
 git branch --delete <>
-
-Testing an edit in browser
