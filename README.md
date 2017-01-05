@@ -1,9 +1,11 @@
 # hello-world
 Running through the GitHub "Hello World" tutorial
 
-I've had a GitHub account for about 2 1/2 years, but I'd like to finally learn more!
+I've had a GitHub account for about 2 1/2 years (mid-2014), but I'd like to finally learn more!
 
-Testing an edit in Atom and using command line tools:  
+I may use this hello-world repo to play around a bit.
+
+So far I've learned the following git commands and am using Atom to edit:  
 atom .  
 git clone <>  
 git add <>  
