@@ -20,3 +20,5 @@ git push
 git push --set-upstream origin <>  
 git pull  
 git branch --delete <>
+git pull
+git sync
